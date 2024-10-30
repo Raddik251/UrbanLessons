@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="its_theopposite">Всё наоборот</string>
+    <string name="input_text">Введите текст</string>
+    <string name="text_button">Преобразовать</string>
+    <string name="result">Результат</string>
+    <string name="count">Количество\nсимволов</string>
+</resources>
